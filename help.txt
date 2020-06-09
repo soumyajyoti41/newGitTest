@@ -1,2 +1,2 @@
 Hi..
-Checking git pull command
+Fix the issue.
